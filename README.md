@@ -24,7 +24,6 @@ console.log("Hello_World.");
 </details>
 </div>
 </div>
-------
 <div align="center">
 
 ```text
