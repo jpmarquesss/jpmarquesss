@@ -9,6 +9,9 @@ console.log("Hello_World.");
 <details>
 <summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> JP's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21getignuqmth5xlpceyv7s3a" alt="Data Card for Spotify">
+   <a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21getignuqmth5xlpceyv7s3a">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21getignuqmth5xlpceyv7s3a" alt="Data Card for Spotify">
+</a>
 </details>
 </div>
 <div>
