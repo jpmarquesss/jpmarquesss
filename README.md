@@ -12,8 +12,6 @@ console.log("Hello_World.");
 </details>
 </div>
 <div>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.vercel.app/api/view?uid=21getignuqmth5xlpceyv7s3a&cover_image=true&theme=default"/> &nbsp; &nbsp; 
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=21getignuqmth5xlpceyv7s3a&count=10"/>
 </div>
 <div>
 <details>
