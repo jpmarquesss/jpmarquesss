@@ -12,13 +12,11 @@ console.log("Hello_World.");
 </details>
 </div>
 <div>
-</div>
-<div>
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
-
-[Charlie Brown Jr. - Céu Azul Ao Vivo - Chegou Quem Faltava](https://github.com/joaopauloaramuni/joaopauloaramuni/assets/58268075/c6568311-54c8-4c00-aced-26aacd69f8a1)
-
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=21getignuqmth5xlpceyv7s3a">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21getignuqmth5xlpceyv7s3a" alt="Data Card for Spotify">
+</a>
 </details>
 </div>
 </div>
