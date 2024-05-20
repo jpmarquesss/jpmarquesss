@@ -24,8 +24,9 @@ console.log("Hello_World.");
 </details>
 </div>
 </div>
-
 -----
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21getignuqmth5xlpceyv7s3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+------
 <div align="center">
 
 ```text
