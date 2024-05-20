@@ -7,7 +7,7 @@ console.log("Hello_World.");
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> Aramuni's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/spotify.gif?raw=true"/> JP's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=21getignuqmth5xlpceyv7s3a" alt="Data Card for Spotify">
 </details>
 </div>
@@ -24,8 +24,6 @@ console.log("Hello_World.");
 </details>
 </div>
 </div>
------
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21getignuqmth5xlpceyv7s3a&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ------
 <div align="center">
 
